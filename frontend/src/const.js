@@ -1,0 +1,1 @@
+export const crud2 = "http://localhost:8080"
